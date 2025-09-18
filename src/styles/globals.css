@@ -8057,7 +8057,7 @@ a {
 /* storiesherobanner */
 /* storiessection */
 .Stories_mainContent__zVI4t {
-    margin: 0 35px 15px 0;
+    margin: 0 0px 15px 0;
 }
 .Stories_mainContent__zVI4t p {
     font-size: 22px;
@@ -8354,7 +8354,7 @@ ease-in-out;
     --tsz6: 4.444vw;
     --tsz7: 5vw;
     --tsz8: 6.25vw;
-    --tsz9: 7.5vw;
+    --tsz9: 5vw;
     --tsz10: 10vw;
   }
 }
@@ -8459,7 +8459,8 @@ ease-in-out;
   padding: 0;
   margin: 0;
   position: absolute;
-  width: 100vw;
+  /* width: 100vw; */
+  width: 100%;
   height: 100vh;
   top: 50%;
   left: 50%;
@@ -8471,7 +8472,8 @@ ease-in-out;
   list-style: none;
   padding: 0;
   margin: 0;
-  width: 100vw;
+  width: 100%;
+  /* width: 100vw; */
   height: 70vh;
   text-align: center;
   font-family: sans-serif;
@@ -8488,7 +8490,8 @@ ease-in-out;
 .cards li a {
   display: block;
   height: 100%;
-  margin: 0 25vw;
+  /* margin: 0 25vw; */
+  margin: 0;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -8766,6 +8769,9 @@ ease-in-out;
   .project__list__link .l-sp:last-child {
     display: none;
   }
+}
+.custom-cursor{
+  display: none;
 }
 @media only screen and (min-width: 1024px) {
   .cards li.in-center a:hover .card__img > img {
