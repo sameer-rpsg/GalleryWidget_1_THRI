@@ -8,95 +8,95 @@ const projects = [
     id: "pr0",
     name: "Janhvi Kapoor",
     href: "",
-    img: "https://external-preview.redd.it/jhanvi-kapoor-v0-MHBmY2gwZXFhc2pmMWIFEPF7PqrrqwqX-jVRl9S8Nvq_G2BUROzUHlil2yJ0.png?format=pjpg&auto=webp&s=61198fe9867db7f4e1cf3502e167e8c71dbb7370",
+    img: "https://www.mrunalinirao.com/cdn/shop/files/MR_417.jpg?v=1742968881",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Material", "Craftsmanship"],
   },
   {
     id: "pr1",
-    name: "Janhvi Kapoor",
+    name: "Tarun",
     href: "",
-    img: "https://assets.vogue.in/photos/673716e30a2036fd96e330ba/3:4/w_2560%2Cc_limit/Snapinsta.app_451261813_857474046262585_4398910345187875289_n_1080.jpg",
+    img: "https://www.mrunalinirao.com/cdn/shop/files/MR_419.jpg?v=1742968881",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Tailoring"],
   },
   {
     id: "pr2",
-    name: "Janhvi Kapoor",
+    name: "Samantha",
     href: "",
-    img: "https://i.ytimg.com/vi/vHkD7zOHFwQ/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLAmXH905cgChy75JPtN80Iu3nv_WQ",
+    img: "https://www.mrunalinirao.com/cdn/shop/files/MR__406.jpg?v=1743139657",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: [],
   },
   {
     id: "pr3",
-    name: "Janhvi Kapoor",
+    name: "Shraddha",
     href: "",
-    img: "https://pbs.twimg.com/media/FCbirxKVIAwx2SM.jpg:large",
+    img: "https://cdn.pixelbin.io/v2/black-bread-289bfa/t.resize(w:1000)/Manish_1/HT_Show_18_styles_27.03.25/MM-PR-SK-72156-CR_C-XS/MM-PR-SK-72156-CR_C-XS-1.jpg",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Tailoring"],
   },
   {
     id: "pr4",
-    name: "Janhvi Kapoor",
+    name: "Janhvi",
     href: "",
-    img: "https://static.toiimg.com/thumb/114775982/114775982.jpg?height=746&width=420&resizemode=76&imgsize=185266",
+    img: "https://cdn.pixelbin.io/v2/black-bread-289bfa/t.resize(w:1000)/Manish_1/HT_Show_18_styles_27.03.25/MM-PR-SK-72156-CR_C-XS/MM-PR-SK-72156-CR_C-XS-3.jpg",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Tailoring"],
   },
   {
     id: "pr5",
-    name: "Janhvi Kapoor",
+    name: "Neha",
     href: "",
-    img: "https://cdn.pixelbin.io/v2/black-bread-289bfa/t.resize(w:2500)/Manish_1/Diwali_Part_Part_1_(19_styles)/MM-MMS-SR-63547-AC-BL-PTT_C-ENQ/MM-MMS-SR-63547-AC-BL-PTT_C-ENQ-4.jpg",
+    img: "https://cdn.pixelbin.io/v2/black-bread-289bfa/t.resize(w:1000)/Manish_1/HT_Show_18_styles_27.03.25/MM-PR-SK-72156-CR_C-XS/MM-PR-SK-72156-CR_C-XS-2.jpg",
     school: "Osaka_Institute_of_Fashion",
     tags: ["Shape", "Sustainability"],
   },
   {
     id: "pr8",
-    name: "Janhvi Kapoor",
+    name: "Tarun",
     href: "",
-    img: "https://blog.falgunishanepeacock.in/wp-content/uploads/2024/10/janhvi-kapoor-short-dresses-819x1024.jpg",
+    img: "https://www.cdnensemble.xyz/pub/media/catalog/product/cache/391a5e1abf666a8c41861a6cd6227bf9/7/1/71223tt19-1.jpg",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: [],
   },
   {
     id: "pr6",
-    name: "Janhvi Kapoor",
+    name: "Tarun",
     href: "",
-    img: "https://i.pinimg.com/736x/a0/c4/1c/a0c41c780d444886e004cc14cd3dad9d.jpg",
+    img: "https://www.cdnensemble.xyz/pub/media/catalog/product/cache/391a5e1abf666a8c41861a6cd6227bf9/7/1/71223tt19-2.jpg",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Material", "Craftsmanship"],
   },
   {
     id: "pr7",
-    name: "Janhvi Kapoor",
+    name: "Tarun",
     href: "",
-    img: "https://images.news18.com/webstories/uploads/2025/05/1-2025-05-d92b3a30a33526d05c8e01dec30c39f2.png",
+    img: "https://www.cdnensemble.xyz/pub/media/catalog/product/cache/391a5e1abf666a8c41861a6cd6227bf9/7/1/71223tt19-3.jpg",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Tailoring"],
   },
   {
     id: "pr9",
-    name: "Janhvi Kapoor",
+    name: "Iswarya",
     href: "",
-    img: "https://blog.falgunishanepeacock.in/wp-content/uploads/2024/10/janhvi-kapoor-short-dresses-819x1024.jpg",
+    img: "https://www.rohitandrahul.com/cdn/shop/files/RG_RK3528.jpg?v=1750744997&width=1946",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Tailoring"],
   },
   {
     id: "pr10",
-    name: "Janhvi Kapoor",
+    name: "Mrunal",
     href: "",
-    img: "https://www.kalkifashion.com/blogs/wp-content/uploads/2023/03/312103515_192384926683419_8076604048580483338_n-819x1024.jpg",
+    img: "https://www.rohitandrahul.com/cdn/shop/files/TP44000_SKT12712_FRONT.jpg?v=1751866324&width=1946",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Tailoring"],
   },
   {
     id: "pr7",
-    name: "Janhvi Kapoor",
+    name: "Shiny",
     href: "",
-    img: "https://images.news18.com/webstories/uploads/2025/05/1-2025-05-d92b3a30a33526d05c8e01dec30c39f2.png",
+    img: "https://www.rohitandrahul.com/cdn/shop/files/LNGA-49.jpg?v=1691764839&width=1946",
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Tailoring"],
   },
@@ -119,32 +119,17 @@ const TransmissionSlider = () => {
     const dr = window.innerWidth > 1024 ? 0.85 : 0.5;
 
     const animateFunc = (element) => {
-      return gsap
-        .timeline()
-        .fromTo(
-          element,
-          { scale: 0.25 },
-          {
-            scale: 1,
-            zIndex: 100,
-            duration: 0.5,
-            yoyo: true,
-            repeat: 1,
-            ease: "power1.in",
-            immediateRender: false,
-          }
-        )
-        .fromTo(
-          element,
-          { xPercent: 210 },
-          {
-            xPercent: -210,
-            duration: 1,
-            ease: "none",
-            immediateRender: true,
-          },
-          0
-        );
+      return gsap.timeline().fromTo(
+        element,
+        { xPercent: 210 },
+        {
+          xPercent: -210,
+          duration: 1,
+          ease: "none",
+          immediateRender: true,
+        },
+        0
+      );
     };
 
     const buildSeamlessLoop = (items, spacing, animateFunc) => {
@@ -214,22 +199,49 @@ const TransmissionSlider = () => {
       );
     };
 
-    function smoothLerpRender() {
-      lerpedOffset.value = math.lerp(lerpedOffset.value, playhead.offset, 0.05);
-      seamlessLoop.time(wrapTime(lerpedOffset.value));
-      // Determine which card is centered
-      let centerIndex = Math.round(lerpedOffset.value / spacing) % cards.length;
-      // Normalize negative index
-      if (centerIndex < 0) centerIndex += cards.length;
-      cards.forEach((card, index) => {
-        if (index === centerIndex) {
-          card.classList.add("in-center");
-        } else {
-          card.classList.remove("in-center");
-        }
+let previousCenterIndex = null;
+
+function smoothLerpRender() {
+  // Smoothly interpolate playhead
+  lerpedOffset.value = math.lerp(lerpedOffset.value, playhead.offset, 0.05);
+  seamlessLoop.time(wrapTime(lerpedOffset.value));
+
+  // Get current center card index
+  const rawIndex = Math.round(lerpedOffset.value / spacing);
+  const centerIndex = ((rawIndex % cards.length) + cards.length) % cards.length;
+
+  cards.forEach((card, index) => {
+    const isCenter = index === centerIndex;
+
+    // Add/remove class for possible styling
+    card.classList.toggle("in-center", isCenter);
+
+    // Set z-index
+    gsap.set(card, {
+      zIndex: isCenter ? 100 : 1,
+    });
+
+    // Animate scale only if index changes
+    if (isCenter && index !== previousCenterIndex) {
+      gsap.to(card, {
+        scale: 1,
+        duration: 0.5,
+        ease: "power2.out",
       });
-      requestAnimationFrame(smoothLerpRender);
+      previousCenterIndex = index;
+    } else if (!isCenter) {
+      gsap.to(card, {
+        scale: 0.75,
+        duration: 0.5,
+        ease: "power2.out",
+      });
     }
+  });
+
+  requestAnimationFrame(smoothLerpRender);
+}
+
+
     requestAnimationFrame(smoothLerpRender);
 
     // 👇 Fix: Better drag handling
@@ -255,7 +267,7 @@ const TransmissionSlider = () => {
         }, 300);
       },
     });
-        const cursor = document.querySelector(".custom-cursor");
+    const cursor = document.querySelector(".custom-cursor");
     const carousel = document.querySelector(".project__carousel");
 
     let mouse = { x: 0, y: 0 };
@@ -298,7 +310,6 @@ const TransmissionSlider = () => {
       carousel.removeEventListener("mouseenter", onMouseEnter);
       carousel.removeEventListener("mouseleave", onMouseLeave);
     };
-
   }, []);
 
   return (
