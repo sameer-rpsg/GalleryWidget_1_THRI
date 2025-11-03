@@ -8148,6 +8148,9 @@ a {
 .mb-0 {
     margin-bottom: 0 !important;
 }
+.Stories_storiesHeroBanner__wvXJR .Stories_heroSection__FbBlB img {
+    object-fit: cover;
+}
 @media screen and (max-width: 900px) {
     #storiesherosec .col-md-4 {
         justify-content: flex-start !important;
@@ -8341,7 +8344,7 @@ ease-in-out;
 /* TransmissionSlider */
 :root {
   /* --primary-color: #010101; */
-  --secondary-color: #ffffff;
+  --secondary-colorr: #ffffff;
 }
 
 @media (min-width: 981px) {
@@ -8412,11 +8415,11 @@ ease-in-out;
 
 ::selection {
   background: var(--primary-color);
-  color: var(--secondary-color);
+  color: var(--secondary-colorr);
 }
 
 .alt ::selection {
-  background: var(--secondary-color);
+  background: var(--secondary-colorr);
   color: var(--primary-color);
 }
 
@@ -8547,7 +8550,7 @@ ease-in-out;
 }
 
 .inner__name span {
-  color: var(--secondary-color);
+  color: var(--secondary-colorr);
   transition: transform 0.65s cubic-bezier(0.22, 0.9, 0.5, 1);
 }
 
@@ -8699,7 +8702,7 @@ ease-in-out;
 }
 
 .alt .project__list__link {
-  border-color: var(--secondary-color);
+  border-color: var(--secondary-colorr);
 }
 
 .list__name {
