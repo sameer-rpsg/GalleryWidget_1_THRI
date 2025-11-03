@@ -47,8 +47,7 @@ const Article = () => {
                     data-nimg={1}
                     className="Stories_author_image__mA2__"
                     style={{ color: "transparent" }}
-                    srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-10-14T11%253A26%253A10.068Z-use%2Bthis.jpg&w=64&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-10-14T11%253A26%253A10.068Z-use%2Bthis.jpg&w=128&q=75 2x"
-                    src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-10-14T11%253A26%253A10.068Z-use%2Bthis.jpg&w=128&q=75"
+                    src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-10-14T11%253A26%253A10.068Z-use%2Bthis.jpg&w=64&q=75"
                   />
                 </div>
                 <div className="Stories_author_right__4NHrP">
