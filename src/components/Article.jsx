@@ -356,66 +356,9 @@ const Article = () => {
                       </span>
                     </p>
                     <p style={{ textAlign: "left" }} />
-                    <p style={{ textAlign: "left" }}>
-                      <span>
-                        Mishra is among the rare designers who doesn’t leave
-                        emotion up to interpretation — he builds it, stitch by
-                        stitch.
-                      </span>
-                    </p>
-                    <div
-                      style={{
-                        display: "flex",
-                        justifyContent: "center",
-                        width: "100%",
-                        margin: "20px 0"
-                      }}
-                    >
-                      <div
-                        className="Stories_image__Y76tU"
-                        style={{ width: "75%" }}
-                      >
-                        <img
-                          alt="Rahul Mishra Couture."
-                          loading="lazy"
-                          width={700}
-                          height={475}
-                          decoding="async"
-                          data-nimg={1}
-                          style={{
-                            color: "transparent",
-                            width: "100%",
-                            height: "auto"
-                          }}
-                          sizes="100vw"
-                          
-                          src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-08T07%253A52%253A32.620Z-Inline4.jpg&w=3840&q=75"
-                        />
-                        <div className="Stories_mainCaption__CKMoz">
-                          <span className="Stories_caption__pLYWo">
-                            Rahul Mishra Couture.
-                          </span>
-                          <span className="Stories_courtesy__IorTZ">
-                            Team Rahul Mishra
-                          </span>
-                        </div>
-                      </div>
-                    </div>
-                    <p style={{ textAlign: "left" }}>
-                      <span>
-                        Titled Becoming Love, the collection is Mishra’s take on
-                        love in all its layered, all-consuming and at times,
-                        gut-wrenching glory. Structured in seven parts — each
-                        inspired by the Sufi philosophy of love’s evolution from
-                        attraction to ultimate surrender — the show wove a
-                        familiar narrative. There were tons of roses (“they had
-                        to be there,” he says), echoes of painter Gustav Klimt’s
-                        figures, and a cinematic nod to the dreamlike “Satrangi
-                        Re” from Mani Ratnam’s{" "}
-                      </span>
-                      <span style={{ fontStyle: "italic" }}>Dil Se..</span>
-                      <span> (1998).</span>
-                    </p>
+                  
+                 
+                   
                     <div
                       style={{
                         display: "flex",
